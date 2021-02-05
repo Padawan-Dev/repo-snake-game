@@ -1,3 +1,5 @@
+package br.com.game.snake;
+import br.com.game.snake.core.Game;
 
 public class Application {
 

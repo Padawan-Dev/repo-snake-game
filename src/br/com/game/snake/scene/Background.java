@@ -1,3 +1,6 @@
+package br.com.game.snake.scene;
+import br.com.game.snake.graphics.Rect;
+import br.com.game.snake.util.Constants;
 
 public class Background extends Rect {
 
